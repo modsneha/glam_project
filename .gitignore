@@ -1,0 +1,4 @@
+*.rar
+*.txt
+.env
+node_modules/
